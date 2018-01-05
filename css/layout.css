@@ -22,6 +22,9 @@
   clear: both;
 }
 
+[id$="third"] {
+  width: 33.333%;
+}
 /* Posititoning Classes */
 
 
