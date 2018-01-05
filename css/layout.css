@@ -26,8 +26,8 @@
 /* Posititoning Classes */
 .column {
   float: left;
-  width: 33.33%;    padding: 10px;
-  margin: 0 auto;
+  width: 33.33%;
+  padding: 10px;
 }
 
 .left {
