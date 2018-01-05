@@ -27,7 +27,7 @@
 .column {
   float: left;
   width: 33.33%;    padding: 10px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .left {
