@@ -38,14 +38,14 @@ padding: 20px;
   float: left;
   width: 33.33%;
   border: 2px solid black;
-  padding: 20px;
+  margin: 20px;
 }
 
 .left {
   width: 66.66%;
   height: auto;
   border: 2px solid black;
-  padding: 10px;
+
 
 }
 
