@@ -30,12 +30,14 @@ padding-top: 20px;
 .column {
   float: left;
   width: 33.33%;
+  border: 2px solid black;
 
 }
 
 .left {
   width: 66.66%;
   height: auto;
+  border: 2px solid black;
 
 }
 
