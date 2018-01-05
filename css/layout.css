@@ -38,7 +38,7 @@ padding: 20px;
   float: left;
   width: 33.33%;
   border: 2px solid black;
-  margin: 20px;
+  margin: inherit;;
 }
 
 .left {
