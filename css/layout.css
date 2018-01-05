@@ -25,12 +25,12 @@
 
 /* Posititoning Classes */
 h2 {
-padding-top: 30px;
+padding-top: 20px;
 }
 .column {
   float: left;
   width: 33.33%;
-  padding: 10px;
+  
 }
 
 .left {
