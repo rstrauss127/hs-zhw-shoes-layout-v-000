@@ -24,7 +24,9 @@
 }
 
 /* Posititoning Classes */
-
+h2 {
+  padding: 2px;
+}
 .column {
   float: left;
   width: 33.33%;
