@@ -22,5 +22,7 @@
   clear: both;
 }
 
-
+.shadow {
+  display: inline;
+}
 /* Posititoning Classes */
