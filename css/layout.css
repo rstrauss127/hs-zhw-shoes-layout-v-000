@@ -22,8 +22,5 @@
   clear: both;
 }
 
-[id$="third"] {
-  display: inline;
-  width: 33.333%;
-}
+
 /* Posititoning Classes */
