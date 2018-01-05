@@ -9,7 +9,7 @@
   -moz-box-sizing: border-box;
 }
 
-.row:after {
+.clearfix:after {
   content: ".";
   display: block;
   clear: both;
